@@ -4,6 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <script
+          type="text/partytown"
+          dangerouslySetInnerHTML={{
+            __html: 'console.log("party")',
+          }}
+      />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
