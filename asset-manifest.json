@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/partytown-test/static/css/main.073c9b0a.css",
+    "main.js": "/partytown-test/static/js/main.96ece10e.js",
+    "static/js/787.924258f8.chunk.js": "/partytown-test/static/js/787.924258f8.chunk.js",
+    "static/media/logo.svg": "/partytown-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/partytown-test/index.html",
+    "main.073c9b0a.css.map": "/partytown-test/static/css/main.073c9b0a.css.map",
+    "main.96ece10e.js.map": "/partytown-test/static/js/main.96ece10e.js.map",
+    "787.924258f8.chunk.js.map": "/partytown-test/static/js/787.924258f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.96ece10e.js"
+  ]
+}
